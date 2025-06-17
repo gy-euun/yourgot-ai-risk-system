@@ -35,6 +35,3 @@ Thumbs.db
 vendor/
 composer.lock
 .phpunit.result.cache
-
-# Vercel
-.vercel 
